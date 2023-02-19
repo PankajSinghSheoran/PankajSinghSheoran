@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **ReactJs,Python,Javascript,Tailwind CSS**
+- 🌱 I’m currently learning **ReactJs,Typescript,Javascript,Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
